@@ -31,7 +31,7 @@ try:
 	import mechanize
 	from requests.exceptions import ConnectionError
 except ModuleNotFoundError:
-	os.system('pip install mechanize requests futures==2 > /dev/null')
+	os.system('pip install mechanizHAMuests futures==2 > /dev/null')
 	os.system('python num.py')
   
 logo = """
@@ -44,12 +44,12 @@ logo = """
 \033[1;37m##     ## ##     ## ##     ## ######## ##     ## 
 
 \033[1;93m--------------------------------------------------
-\033[1;31m [+] GITHUB         : HAMZA302
+\033[1;31m [+] GITHUB         : ROBBANI
 \033[1;37m [+] Author         : HAMZIII 
-\033[1;34m [+] FACEBOOK       : MUHAMMAD HAMZA
-\033[1;33m [+] phone          : 030000000
-\033[1;35m [+] Version        : 0.1
-\033[1;36m [+] FROM           : PAKISTAN 
+\033[1;34m [+] FACEBOOK       : ROBBANI GAM
+\033[1;33m [+] phone          : +8801866943322
+\033[1;35m [+] Version        : 0.2
+\033[1;36m [+] FROM           : Bangladesh  
 \033[1;93m--------------------------------------------------
 """
 loop = 0
@@ -90,7 +90,7 @@ def HAMZA_select():
 def HAMZA_TRICKER():
 	os.system('clear')
 	print(logo)
-	os.system('xdg-open https://www.facebook.com/profile.php?id=100007946797233')
+	os.system('xdg-open https://www.facebook.com/robbane.gam.1')
 	print('\x1b[1;92m[1]\x1b[1;93m Random UID Cloning')
 	print('\x1b[1;92m[0]\x1b[1;94m Back')
 	print(47*'\033[92;1m-')
@@ -107,7 +107,7 @@ def HAMZA_TRICKER():
 def method():
 	os.system('clear')
 	print(logo)
-	os.system('xdg-open https://www.facebook.com/profile.php?id=100007946797233')
+	os.system('xdg-open https://www.facebook.com/robbane.gam.1')
 	print('\x1b[1;92m[1]\x1b[1;93m Method1  \x1b[1;92m[Ok idz] \x1b[1;93m[BEST]')
 	print('\x1b[1;92m[2]\x1b[1;94m Method2  \x1b[1;92m[Ok idz]')
 	print('\x1b[1;92m[0]\x1b[1;95m Back')
@@ -127,7 +127,7 @@ def method():
 def method1():
 	user=[]
 	os.system('clear');print(logo)
-	print('\033[1;32m[+] For Example :\033[1;33m 0300,0302,0304,0309 ...')
+	print('\033[1;32m[+] For Example :\033[1;33m 017,019,018,015,016 ...')
 	print ("")
 	kode = input('\033[1;32m[+] Choose Code : \033[1;33m')
 	print ("")
@@ -233,7 +233,7 @@ def mcrack(uid,pwx,tl):
 def method2():
 	user=[]
 	os.system('clear');print(logo)
-	print('\033[1;32m[+] For Example :\033[1;33m 92310,92342,92300,92301 ...')
+	print('\033[1;32m[+] For Example :\033[1;33m 017,019,018,015,016 ...')
 	print ("")
 	kode = input('\033[1;32m[+] Choose Code : \033[1;33m')
 	print ("")
